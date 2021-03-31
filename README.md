@@ -9,14 +9,7 @@
 ```javascript
 const andyMartel = {
   code: [Javascript, HTML, CSS],
-  tools: [React, 
-          Redux, 
-          Node, 
-          WebSockets, 
-          SASS, 
-          Boostrap, 
-          ADOBE
-         ],
+  tools: [React, Redux, Node, WebSockets, SASS, Boostrap],
   architecture: ["microservices", "design system pattern"],
   languajes: {
                         native: "Español",
