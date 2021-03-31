@@ -1,16 +1,25 @@
-### Hi there 👋
+<h2> Hi, I'm Andy Martel!</h2>
+<img align='right' src="https://image.freepik.com/vector-gratis/ilustracion-concepto-mecanografia-codigo_114360-3866.jpg" width="230">
+<p><em>Software Enginner at <a href="https://www.uci.cu/">University of Informatics Sciences. Havana, Cuba </a><img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Logotipo_UCI_2.png" width="30"></br>Master in Applied Informatics to Design at <a href="https://misis.ru/">NITU MISIS. Moscow, Russia </a><img src="https://eweees.ru/wp-content/uploads/2018/07/misis-logo-2012_base-transp.png" width="30"> 
+</em></p>
+<p><img src="https://image.flaticon.com/icons/png/512/25/25231.png" width="20"> https://github.com/aymartel</p>
 
-<!--
-**aymartel/aymartel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### A little more about me...  
 
-Here are some ideas to get you started:
+```javascript
+const andyMartel = {
+  code: [Javascript, HTML, CSS],
+  tools: [React, Redux, Node, WebSockets, SASS, Boostrap],
+  architecture: ["microservices", "design system pattern"],
+  languajes: {
+                        native: "Español",
+                        B2: "English",
+                        B1: "Русский"
+                      },
+}
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<em><b>“Have the courage to follow your heart and intuition. </b> They somehow already know what you truly want to become.” </em>
+
+---
+
