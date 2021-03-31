@@ -1,5 +1,5 @@
 <h2> Hi, I'm Andy Martel!</h2>
-<img align='right' src="https://i.pinimg.com/originals/7b/43/65/7b4365680560d11ed9f1dfbbeb48b9d3.jpg" width="300">
+<img align='right' src="https://image.freepik.com/free-vector/programmer-coding-young-man-freelancer-working-program-code-with-laptop-geek-coding-software-vector-concept_53562-9214.jpg" width="230">
 <p><em>Software Enginner at <a href="https://www.uci.cu/">University of Informatics Sciences. Havana, Cuba </a><img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Logotipo_UCI_2.png" width="30"></br>Master in Applied Informatics to Design at <a href="https://misis.ru/">NITU MISIS. Moscow, Russia </a><img src="https://eweees.ru/wp-content/uploads/2018/07/misis-logo-2012_base-transp.png" width="30"> 
 </em></p>
 <p><img src="https://image.flaticon.com/icons/png/512/25/25231.png" width="20"> https://github.com/aymartel</p>
