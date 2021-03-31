@@ -13,8 +13,8 @@ const andyMartel = {
   architecture: ["microservices", "design system pattern"],
   languajes: {
                         native: "Español",
-                        B2: "English",
-                        B1: "Русский"
+                        b2: "English",
+                        b1: "Русский"
                       },
 }
 ```
