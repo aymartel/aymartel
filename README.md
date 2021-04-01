@@ -1,5 +1,5 @@
 <h2> Hi, I'm Andy Martel!</h2>
-<img align='left' src="https://scontent-frx5-1.xx.fbcdn.net/v/t1.6435-9/64647534_1303909469792003_7549287621319458816_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=8bfeb9&_nc_ohc=fVq6SyOc0NwAX8trpQk&_nc_oc=AQnYJHWhdrfqRwDOUq2H8rSAmfACfom99UqHTOE4hUMw4YFhKzwnSEMOKyeoXuOwIzI&_nc_ht=scontent-frx5-1.xx&oh=d2deb835a2d4064b4f7f4bb862bf6804&oe=608AA7E0" width="150">
+<img align='right' src="https://image.freepik.com/vector-gratis/ilustracion-concepto-mecanografia-codigo_114360-3866.jpg" width="350">
 <p><em>Software Enginner at <a href="https://www.uci.cu/">University of Informatics Sciences. Havana, Cuba </a><img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Logotipo_UCI_2.png" width="30"></br>Master in Applied Informatics to Design at <a href="https://misis.ru/">NITU MISIS. Moscow, Russia </a><img src="https://eweees.ru/wp-content/uploads/2018/07/misis-logo-2012_base-transp.png" width="30"> 
 </em></p>
 <p><img src="https://image.flaticon.com/icons/png/512/25/25231.png" width="20"> https://github.com/aymartel</p>
