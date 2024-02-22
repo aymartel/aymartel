@@ -15,7 +15,7 @@
 <p align="center">
         <!-- Intro -->
     
-                <samp>
+                <p>
                 「 Full stack developer with a specialization in frontend technologies from <b>Havana</b> 」
                 <br>
                 「 Master's in Applied Informatics at MISIS Moscow University</b> 」
@@ -23,7 +23,7 @@
                 <br>
                 「 Collaborative team player with a passion for driving project success</b> 」
                 <br>
-                </samp>
+                </p>
         <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="JavaScript"
                         src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
         </a>
