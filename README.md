@@ -5,7 +5,7 @@
 <!-- Title -->
 <h3 align="center">
         <samp>&gt; I am
-                <b><a target="_blank" href="https://shahriarshafin.github.io/">Andy Martel</a></b>
+                <b><a target="_blank" href="https://www.andymartel.ru/">Andy Martel</a></b>
         </samp>
 </h3>
 <br>
@@ -20,20 +20,16 @@
                 <br>
         </samp>
         <!-- Mail -->
-        <a href="mailto:connect.shafin@gmail.com" target="_blank"><img alt="Mail"
+        <a href="mailto:aymartel@gmail.com" target="_blank"><img alt="Mail"
                 src="https://img.shields.io/badge/-Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
         </a>
-        <!-- Twitter -->
-        <a href="https://twitter.com/connectshafin" target="_blank"><img alt="Twitter"
-                src="https://img.shields.io/badge/-Twitter-1c9bef?style=flat-square&logo=Twitter&logoColor=white">
-        </a>
         <!-- Linkedin -->
-        <a href="https://www.linkedin.com/in/shahriarshafin/" target="_blank"><img alt="Linkedin"
+        <a href="https://www.linkedin.com/in/aymartel/" target="_blank"><img alt="Linkedin"
                 src="https://img.shields.io/badge/-Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white">
         </a>
-        <!-- Youtube -->
-        <a href="https://www.youtube.com/c/ShahriarShafin/videos" target="_blank"><img alt="Youtube"
-                src="https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&logo=Youtube&logoColor=white">
+        <!-- Instagram -->
+        <a href="https://www.instagram.com/andy.martel/" target="_blank"><img alt="Instagram"
+                src="https://img.shields.io/badge/-Instagram-FF0000?style=flat-square&logo=Instagrame&logoColor=white">
         </a>
 </p>
 
