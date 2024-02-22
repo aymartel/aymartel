@@ -7,7 +7,6 @@
                 <b><a target="_blank" href="https://www.andymartel.ru/">Andy Martel Carpio</a></b>
         </samp>
 </h3>
-<br>
 
 <p align="center">
         <!-- Intro -->
