@@ -4,28 +4,27 @@
 
 <!-- Profile Views Counter -->
 
-<h1 align="left"> Hey there<img src="https://komarev.com/ghpvc/?username=aymartel&label=Profile%20views&color=0e75b6&style=flat" alt="aymartel" /><img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi"></h1>
+<h1 align="left"> Hey there ~<img src="https://komarev.com/ghpvc/?username=aymartel&label=Profile%20views&color=0e75b6&style=flat" alt="aymartel" /><img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi"></h1>
 <!-- Title -->
 <h3 align="center">
-        <samp>&gt; Hey There!, I am
+        <samp>&gt; I am
                 <b><a target="_blank" href="https://www.andymartel.ru/">Andy Martel Carpio</a></b>
         </samp>
 </h3>
 
 <p align="center">
         <!-- Intro -->
-        <samp>
+    
                 <samp>
-                「 I'm a full stack developer with a specialization in frontend technologies from <b>Havana</b> 」
+                「 Full stack developer with a specialization in frontend technologies from <b>Havana</b> 」
                 <br>
                 「 Master's in Applied Informatics at MISIS Moscow University</b> 」
                 <br>
                 <br>
                 「 Collaborative team player with a passion for driving project success</b> 」
                 <br>
-                
-        </samp>
-        </samp>
+                </samp>
+       
         <!-- Technologies -->
         <!-- JavaScript -->
         <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="JavaScript"
@@ -50,9 +49,9 @@
 </p>
 
 <!-- Details Section -->
-<details align="center">
+<details align="left">
     <summary> <samp>&#9776; More</samp></summary>
-    <p align="center">
+    <p align="left">
         <br>
         <!-- Activity Widget -->
         <img alt="Shahriar Shafin's GitHub Stats"
@@ -85,7 +84,6 @@
     <p align="center">
         ════ ⋆★⋆ ════
         <br>
-        "Keep your eyes on the stars and your feet on the ground👨‍💻"
+        "Keep your eyes on the stars and your feet on the ground"
     </p>
 </samp>
-### Hi there ~ <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">
