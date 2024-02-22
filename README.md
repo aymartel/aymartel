@@ -1,10 +1,5 @@
-<!-- https://github.com/ShahriarShafin/ -->
-<!-- April 15, 2021 -->
-<!-- LEAVE A STAR, IF YOU LIKE IT ! -->
-
 <!-- Profile Views Counter -->
-###<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aymartel&label=Profile%20views&color=0e75b6&style=flat" alt="aymartel" /> </p>
+<p align="left"><img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi"> <img src="https://komarev.com/ghpvc/?username=aymartel&label=Profile%20views&color=0e75b6&style=flat" alt="aymartel" /> </p>
 <br>
 <!-- Title -->
 <h3 align="center">
